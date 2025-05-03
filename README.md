@@ -14,5 +14,4 @@ Loves to solve problems and develop useful apps.
 - Best Bathroom singer in the World
 - PS - Still waiting for my Hogwarts Acceptance Letter 🦉
 
-<img  src="https://github-readme-stats.vercel.app/api?username=DevSudhanshuRanjan&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevSudhanshuRanjan&theme=dark" width="48%">
+<img  src="https://github-readme-stats.vercel.app/api?username=DevSudhanshuRanjan&show_icons=true&hide_border=true&theme=dark" width="100%"  >
