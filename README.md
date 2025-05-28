@@ -94,8 +94,6 @@
 
 <h2 align="center">📫 Let's Connect!</h2>
 
-## 📬 Let's Connect
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px;">
   <a href="https://www.linkedin.com/in/devsudhanshuranjan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
